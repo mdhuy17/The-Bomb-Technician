@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+ 
+  body {
+    /* font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif; */
+    font-family: 'Koulen', cursive;
+    margin: 0;
+    background-color: #f4f6dd;
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+    flex-direction: column;
+    color: #7dc7c1;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+  }
+  
